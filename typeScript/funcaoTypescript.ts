@@ -1,6 +1,6 @@
 
 function soma(a: Number, b: Number) {
-    return a+b
+    //return a+b
 }
 
 soma(3,4)
